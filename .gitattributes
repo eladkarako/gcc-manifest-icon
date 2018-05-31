@@ -1,0 +1,11 @@
+*.exe         binary
+*.o           binary
+*.res         binary
+
+*.manifest    text    eol=crlf
+*.cmd         text    eol=crlf
+*.cbp         text    eol=crlf
+*.layout      text    eol=crlf
+*.rc          text    eol=crlf
+*.cpp         text    eol=crlf
+Makefile      text    eol=crlf
